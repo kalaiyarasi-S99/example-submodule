@@ -1,0 +1,3 @@
+[submodule "example-dependency"]
+	path = example-dependency
+	url = git@github.com:kalaiyarasi-S99/example-dependency.git
